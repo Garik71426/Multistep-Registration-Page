@@ -1,0 +1,52 @@
+#root{
+    font-size: 16px;
+    font-weight: 300;
+    color: #FFF;
+    line-height: 30px;
+    background-image: url(../image/4k-wallpaper-architecture-bird-s-eye-view-1482778.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.App{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-control{
+    background-color: rgba(255,255,255,0.4);
+    color: #FFF;
+    font-weight: 500
+}
+.form-control::placeholder{
+    color: #FFF;
+}
+.form-control:focus{
+    background-color: rgba(255,255,255,0.8);
+}
+.form-control.is-valid{
+    border:3px;
+    border-color: rgba(0,255,0,0.3)
+}
+.form-control.is-valid:focus{
+    border-color: rgba(0,255,0,0.3)
+}
+.btn-secondary{
+    height: 50px;
+    padding: 0 20px;
+    background-color: rgba(0,255,0,0.3);
+    border-radius: 4px;
+}
+.btn-secondary:hover{
+    cursor: pointer;
+    opacity: 0.6;
+    color: #fff;
+}
+.btn-secondary:disabled{
+    cursor: context-menu;
+    background-color: rgba(255,0,0,0.5);
+}
+.step2Text{
+    font-size: 1.5em;
+}

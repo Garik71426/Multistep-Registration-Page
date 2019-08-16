@@ -1,0 +1,42 @@
+.Registration{
+    width: 40%;
+}
+.RegistrationHead{
+    overflow: hidden;
+    padding: 20px 25px 5px 25px;
+}
+.headRight h3{
+    font-size: 22px;
+}
+.headRight p{
+    margin-right: 10px;
+}
+.headRight{
+    float: left;
+    display:;
+    width: 75%;
+}
+.headLeft{
+    float: left;
+    display:;
+    width: 25%;
+    padding-top: 5px;
+    font-size: 66px;
+    color: #ddd;
+    text-align: right;
+}
+.RegistrationForm{
+    padding: 25px 25px 30px 25px;
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 0 0 4px 4px;
+    text-align: left;
+}
+.respons{
+    background-color: #FFF;
+    opacity: 0.5;
+    color: black;
+}
+.respons h1{
+    font-size: 3.5em;
+    padding: 50px 0;
+}
