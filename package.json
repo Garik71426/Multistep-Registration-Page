@@ -45,7 +45,7 @@
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
     "mobx-react-form": "^2.0.2",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.18.11",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.2.1",
